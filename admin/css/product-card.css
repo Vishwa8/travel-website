@@ -1,0 +1,45 @@
+
+/* Product card */
+    .pcard {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);   
+      margin: auto;
+      text-align: center;
+      font-family: arial;
+    }
+
+    .pcard button {
+      border: none;
+      outline: 0;
+      padding: 12px;
+      color: white;
+      background-color: #000;
+      text-align: center;
+      cursor: pointer;
+      width: 100%;
+      font-size: 18px;
+    }
+
+    .pcard button:hover {
+      opacity: 0.7;
+    }
+
+    .more-button {
+      border: none;
+      outline: 0;
+      padding: 12px;
+      margin: 12px;
+      color: white;
+      background-color: #000;
+      text-align: center;
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .more-button:hover {
+      opacity: 0.7;
+    }
+
+
+
+
